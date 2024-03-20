@@ -12,13 +12,13 @@ Welcome to the Joyeux Shoppers Data Analysis Project! This project aims to analy
 
 ### Tables Created
 
-1. Customers
+1. Users
 2. Orders
 3. Products
-4. Logistics
-5. Marketing Campaigns
+4. Inventory_items
+5. Products
 6. Events
-7. Countries
+7. Distribution_centers
 
 ### ERD (Entity-Relationship Diagram)
 
