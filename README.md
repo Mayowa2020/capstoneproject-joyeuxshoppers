@@ -26,7 +26,7 @@ Welcome to the Joyeux Shoppers Data Analysis Project! This project aims to analy
 
 ### Python Scripts
 
-- `**load_csv_to_mysql.ipynb**`: Python script to load CSV files into MySQL tables.
+- `**upload_csv_to_mysqldb.ipynb**`: Python script to load CSV files into MySQL tables.
 
 ### SQL DDL
 
